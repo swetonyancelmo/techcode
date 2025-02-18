@@ -41,8 +41,8 @@ header {
     display: none;
   }
 
-  .nav-links {
-    margin-left: 1rem;
+  .nav-links ul {
+    margin-left: 2rem;
   }
 
   .relatos {
@@ -50,7 +50,7 @@ header {
   }
 
   .text-home {
-    margin-left: 1.5rem;
+    margin: 0 auto;
   }
 }
 
