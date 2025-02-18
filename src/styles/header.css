@@ -42,15 +42,15 @@ header {
   }
 
   .nav-links ul {
-    margin-left: 2rem;
+    margin-left: 1.5rem;
   }
 
   .relatos {
     margin-top: 3rem;
   }
 
-  .text-home {
-    margin: 0 auto;
+  .home {
+    margin-left: 2rem;
   }
 }
 
