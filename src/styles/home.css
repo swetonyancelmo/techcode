@@ -40,10 +40,6 @@
     display: none;
   }
 
-  .text-home {
-    margin-left: 8rem;
-  }
-
   .cards-rel {
     flex-direction: column;
   }
@@ -57,6 +53,4 @@
   .card-plans {
     flex-direction: column;
   }
-
-  
 }
